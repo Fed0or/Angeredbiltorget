@@ -1,0 +1,55 @@
+<head> allt man inte kan see på sidan , Metadata så som titel på broswern
+description för sök motor
+
+<body> allt man kan see på sidan
+
+
+
+
+<H1> Titel ( Störst sen finns h2 , h3 , h4 , h5 
+
+<section > = olika sektioner
+<p> en arrgument 
+<u> underline // man kan lägga dessa i en argumment redan
+<b> tjock text
+<ul> Innehållet är en lista men du måste visa exakt var listan är
+<li> listitem , här säger du vad som finns i listan
+<ol> order list , som kommer skriva i ordningar
+<br> Break (Hoppar till nästa linje )
+
+<a> ankar
+<a href="var den ska skickas"> här länkas till nästa sida
+
+<img src="bildensnamn" width="längd" height="höjd" alt="Beskrivning av bild"> ( för att implentera in bild )
+man behöver inte stänga den samt alt="" betyder beskrivning av logon som man inte ser men för blinda om dem använder
+en reader
+
+<audio src="pathen" controlls type="audi/mp3" </audio> För att implentera ljud
+controlls type är kontrollerar för att styra musiken.
+
+<video src="pathen" controlls type="video/mp4 width="längden"</video>
+implentera video samt kontroller för att styra den
+
+<!-- För att  kommentera för dig själv -->
+
+<table border="1"> för implentera en table med border, som innehåller också 
+<tr>som är definerar raderna i tabelen  och  
+<th> Som är tabel header  och <td> betyder tabel data !
+
+<form> för att göra en form men, en form innehåller
+<label> och <input name ="av labeln"/> om man ska skriv i formen annars
+ 
+och för att göra en drop box så behöver du
+
+<label for="Bilar"> Bilar </label> 
+<select id="Bilar"> name="Bilar"> och sen skriva alla alternativ i denna
+<option value="Bmw"> Bmw </option>
+sen stänger vi dropboxen med
+</select>
+
+for, id , value = vi använder dessa i en dropbox för att kunna hantera dessa alternativ
+lättare sedan att ändra på dem , vi ger dem ett värde .
+
+
+och i slutet en <button> knappens namn </button>
+
